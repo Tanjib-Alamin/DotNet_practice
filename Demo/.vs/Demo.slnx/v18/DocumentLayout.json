@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|e:\\dev-skill\\asp .net course\\practice code\\dotnet_practice\\demo\\demo.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|solutionrelative:demo.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|e:\\dev-skill\\asp .net course\\practice code\\dotnet_practice\\demo\\demo.web\\models\\viewindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|solutionrelative:demo.web\\models\\viewindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|e:\\dev-skill\\asp .net course\\practice code\\dotnet_practice\\demo\\demo.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|solutionrelative:demo.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|e:\\dev-skill\\asp .net course\\practice code\\dotnet_practice\\demo\\demo.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|solutionrelative:demo.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewIndex.cs",
+              "DocumentMoniker": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Models\\ViewIndex.cs",
+              "RelativeDocumentMoniker": "Demo.web\\Models\\ViewIndex.cs",
+              "ToolTip": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Models\\ViewIndex.cs",
+              "RelativeToolTip": "Demo.web\\Models\\ViewIndex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:23:23.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Demo.web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Demo.web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T16:58:11.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Demo.web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T16:58:08.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Demo.web\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Demo.web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-07T19:49:27.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

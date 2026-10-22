@@ -290,3 +290,14 @@ E:\Dev-Skill\Asp .Net Course\practice code\DotNet_practice\Demo\Demo.web\obj\Deb
 E:\Dev-Skill\Asp .Net Course\practice code\DotNet_practice\Demo\Demo.web\obj\Debug\net10.0\Demo.web.pdb
 E:\Dev-Skill\Asp .Net Course\practice code\DotNet_practice\Demo\Demo.web\obj\Debug\net10.0\Demo.web.genruntimeconfig.cache
 E:\Dev-Skill\Asp .Net Course\practice code\DotNet_practice\Demo\Demo.web\obj\Debug\net10.0\ref\Demo.web.dll
+E:\Dev-Skill\Asp .Net Course\practice code\DotNet_practice\Demo\Demo.web\bin\Debug\net10.0\Autofac.dll
+E:\Dev-Skill\Asp .Net Course\practice code\DotNet_practice\Demo\Demo.web\bin\Debug\net10.0\Autofac.Extensions.DependencyInjection.dll
+E:\Dev-Skill\Asp .Net Course\practice code\DotNet_practice\Demo\Demo.web\bin\Debug\net10.0\Serilog.dll
+E:\Dev-Skill\Asp .Net Course\practice code\DotNet_practice\Demo\Demo.web\bin\Debug\net10.0\Serilog.AspNetCore.dll
+E:\Dev-Skill\Asp .Net Course\practice code\DotNet_practice\Demo\Demo.web\bin\Debug\net10.0\Serilog.Extensions.Hosting.dll
+E:\Dev-Skill\Asp .Net Course\practice code\DotNet_practice\Demo\Demo.web\bin\Debug\net10.0\Serilog.Extensions.Logging.dll
+E:\Dev-Skill\Asp .Net Course\practice code\DotNet_practice\Demo\Demo.web\bin\Debug\net10.0\Serilog.Formatting.Compact.dll
+E:\Dev-Skill\Asp .Net Course\practice code\DotNet_practice\Demo\Demo.web\bin\Debug\net10.0\Serilog.Settings.Configuration.dll
+E:\Dev-Skill\Asp .Net Course\practice code\DotNet_practice\Demo\Demo.web\bin\Debug\net10.0\Serilog.Sinks.Console.dll
+E:\Dev-Skill\Asp .Net Course\practice code\DotNet_practice\Demo\Demo.web\bin\Debug\net10.0\Serilog.Sinks.Debug.dll
+E:\Dev-Skill\Asp .Net Course\practice code\DotNet_practice\Demo\Demo.web\bin\Debug\net10.0\Serilog.Sinks.File.dll

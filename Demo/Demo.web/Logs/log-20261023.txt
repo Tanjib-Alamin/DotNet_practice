@@ -1,0 +1,48 @@
+2026-10-23 00:29:22.388 +06:00 [INF] sending test email
+2026-10-23 00:33:09.402 +06:00 [INF] sending test email
+2026-10-23 00:33:12.010 +06:00 [INF] sending test email
+2026-10-23 00:33:12.943 +06:00 [INF] sending test email
+2026-10-23 00:33:15.270 +06:00 [INF] sending test email
+2026-10-23 00:33:15.829 +06:00 [INF] sending test email
+2026-10-23 00:33:16.054 +06:00 [INF] sending test email
+2026-10-23 00:33:16.237 +06:00 [INF] sending test email
+2026-10-23 00:33:16.446 +06:00 [INF] sending test email
+2026-10-23 00:33:16.623 +06:00 [INF] sending test email
+2026-10-23 00:33:16.821 +06:00 [INF] sending test email
+2026-10-23 00:39:07.845 +06:00 [INF] sending test email
+2026-10-23 00:39:07.921 +06:00 [ERR] An error occered while sending email
+System.NotImplementedException: The method or operation is not implemented.
+   at Demo.web.Code.TextEmailSender.SendEmail(String to, String subject, String body) in E:\Dev-Skill\Asp .Net Course\practice code\DotNet_practice\Demo\Demo.web\Code\TextEmailSender.cs:line 7
+   at Demo.web.Controllers.HomeController.Index() in E:\Dev-Skill\Asp .Net Course\practice code\DotNet_practice\Demo\Demo.web\Controllers\HomeController.cs:line 23
+2026-10-23 00:41:41.132 +06:00 [INF] sending test email
+2026-10-23 00:41:41.172 +06:00 [ERR] An error occered while sending email
+System.NotImplementedException: The method or operation is not implemented.
+   at Demo.web.Code.TextEmailSender.SendEmail(String to, String subject, String body) in E:\Dev-Skill\Asp .Net Course\practice code\DotNet_practice\Demo\Demo.web\Code\TextEmailSender.cs:line 7
+   at Demo.web.Controllers.HomeController.Index() in E:\Dev-Skill\Asp .Net Course\practice code\DotNet_practice\Demo\Demo.web\Controllers\HomeController.cs:line 23
+2026-10-23 00:41:41.235 +06:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'Demo.web.Models.ErrorViewModel', but this ViewDataDictionary instance requires a model item of type 'Demo.web.Models.ViewIndex'.
+   at lambda_method8(Closure, ViewDataDictionary)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)

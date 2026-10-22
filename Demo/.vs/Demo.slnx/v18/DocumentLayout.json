@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|e:\\dev-skill\\asp .net course\\practice code\\dotnet_practice\\demo\\demo.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|solutionrelative:demo.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|e:\\dev-skill\\asp .net course\\practice code\\dotnet_practice\\demo\\demo.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|solutionrelative:demo.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|e:\\dev-skill\\asp .net course\\practice code\\dotnet_practice\\demo\\demo.web\\models\\viewindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|solutionrelative:demo.web\\models\\viewindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|e:\\dev-skill\\asp .net course\\practice code\\dotnet_practice\\demo\\demo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|solutionrelative:demo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|e:\\dev-skill\\asp .net course\\practice code\\dotnet_practice\\demo\\demo.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|solutionrelative:demo.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|e:\\dev-skill\\asp .net course\\practice code\\dotnet_practice\\demo\\demo.web\\logs\\log-20261023.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|solutionrelative:demo.web\\logs\\log-20261023.log||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|e:\\dev-skill\\asp .net course\\practice code\\dotnet_practice\\demo\\demo.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|solutionrelative:demo.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|e:\\dev-skill\\asp .net course\\practice code\\dotnet_practice\\demo\\demo.web\\logs\\log-20261023.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|solutionrelative:demo.web\\logs\\log-20261023.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|e:\\dev-skill\\asp .net course\\practice code\\dotnet_practice\\demo\\demo.web\\code\\textemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|solutionrelative:demo.web\\code\\textemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|e:\\dev-skill\\asp .net course\\practice code\\dotnet_practice\\demo\\demo.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|solutionrelative:demo.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|e:\\dev-skill\\asp .net course\\practice code\\dotnet_practice\\demo\\demo.web\\code\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|solutionrelative:demo.web\\code\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|e:\\dev-skill\\asp .net course\\practice code\\dotnet_practice\\demo\\demo.web\\code\\htmlemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACB7655-6020-12E1-BC61-419496D209C3}|Demo.web\\Demo.web.csproj|solutionrelative:demo.web\\code\\htmlemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +42,105 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ViewIndex.cs",
-              "DocumentMoniker": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Models\\ViewIndex.cs",
-              "RelativeDocumentMoniker": "Demo.web\\Models\\ViewIndex.cs",
-              "ToolTip": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Models\\ViewIndex.cs",
-              "RelativeToolTip": "Demo.web\\Models\\ViewIndex.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T17:23:23.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Demo.web\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Demo.web\\Views\\Home\\Privacy.cshtml",
+              "Title": "log-20261023.log",
+              "DocumentMoniker": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Logs\\log-20261023.log",
+              "RelativeDocumentMoniker": "Demo.web\\Logs\\log-20261023.log",
+              "ToolTip": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Logs\\log-20261023.log",
+              "RelativeToolTip": "Demo.web\\Logs\\log-20261023.log",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-11T16:58:11.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Demo.web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Demo.web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-11T16:58:08.102Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-22T19:11:12.445Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Demo.web\\Properties\\launchSettings.json",
-              "ToolTip": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Demo.web\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Title": "log-20261023.txt",
+              "DocumentMoniker": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Logs\\log-20261023.txt",
+              "RelativeDocumentMoniker": "Demo.web\\Logs\\log-20261023.txt",
+              "ToolTip": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Logs\\log-20261023.txt",
+              "RelativeToolTip": "Demo.web\\Logs\\log-20261023.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-22T19:11:11.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo.web\\appsettings.json",
+              "ToolTip": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\appsettings.json",
+              "RelativeToolTip": "Demo.web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-07T19:49:27.599Z",
+              "WhenOpened": "2026-10-22T18:51:15.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.web\\Program.cs",
+              "ToolTip": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Program.cs",
+              "RelativeToolTip": "Demo.web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T17:06:59.87Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Code\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "Demo.web\\Code\\IEmailSender.cs",
+              "ToolTip": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Code\\IEmailSender.cs",
+              "RelativeToolTip": "Demo.web\\Code\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T16:51:31.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Demo.web\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Demo.web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowCEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T16:47:51.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HtmlEmailSender.cs",
+              "DocumentMoniker": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Code\\HtmlEmailSender.cs",
+              "RelativeDocumentMoniker": "Demo.web\\Code\\HtmlEmailSender.cs",
+              "ToolTip": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Code\\HtmlEmailSender.cs",
+              "RelativeToolTip": "Demo.web\\Code\\HtmlEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T16:46:24.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextEmailSender.cs",
+              "DocumentMoniker": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Code\\TextEmailSender.cs",
+              "RelativeDocumentMoniker": "Demo.web\\Code\\TextEmailSender.cs",
+              "ToolTip": "E:\\Dev-Skill\\Asp .Net Course\\practice code\\DotNet_practice\\Demo\\Demo.web\\Code\\TextEmailSender.cs",
+              "RelativeToolTip": "Demo.web\\Code\\TextEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T16:40:12.394Z"
             }
           ]
         }
